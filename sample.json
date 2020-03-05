@@ -1,0 +1,11 @@
+{
+    "name": "name",
+    "version": "1.0.0",
+    "description": "this is unofficial",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specificied\" && exit 1"
+    },
+    "author": "author",
+    "license": "ISC"
+}
